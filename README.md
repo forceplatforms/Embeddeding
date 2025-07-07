@@ -1,2 +1,2 @@
 # Embeddeding
-PCS and Embeddeding Analysis
+PCA and Embeddeding Analysis
