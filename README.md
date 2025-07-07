@@ -1,2 +1,2 @@
 # Embeddeding
-PCA and Embeddeding Analysis
+PCA and Embedding Analysis
